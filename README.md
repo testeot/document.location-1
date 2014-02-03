@@ -1,0 +1,2 @@
+document.location-1
+===================
